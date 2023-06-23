@@ -1,0 +1,18 @@
+{
+  "name": "hw_extra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw_extra.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "@types/whatwg-fetch": "^0.0.33"
+  }
+}
